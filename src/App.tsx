@@ -1,4 +1,3 @@
-import { useState } from "react";
 import FlashCard from "./components/FlashCard";
 import ProgressBar from "./components/ProgressBar";
 import { QuestionsProvider } from "./context/QuestionsContext";
